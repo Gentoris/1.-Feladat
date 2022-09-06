@@ -1,5 +1,4 @@
-# [Név]
-
+# Kerecsényi Márk
 
 ## Hogyan kezdj neki?
 
